@@ -1,0 +1,62 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.cso
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build Folders
+bin/
+obj/
+Build/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio specific
+.vs/
+.vscode/
+.ipch/
+*.suo
+*.user
+*.cache
+*.ncb
+*.pdb
+*.ilk
+*.aps
+*.sdf
+*.opensdf
+*.tlog
+*.log
+*.lastbuildstate
+
+# ImGui
+imgui.ini
